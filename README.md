@@ -1,4 +1,3 @@
 # Trabalhando-Branches
 
-## Commit antes do clone
-
+## Commit antes depois do clone
